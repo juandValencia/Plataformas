@@ -1,0 +1,63 @@
+h1{color:#8EE3F5;
+    text-align: center;
+    size: 40px;
+
+}
+h2{color:#8EE3F5; }
+
+body{
+    background-color: #132440;
+    background-image: url("../IMG/images-1-1.jpg");
+    border-radius: 40;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+}
+#punto1{
+    color: blue; 
+    background-color: #22c9dc;
+    border-style: solid;
+    border-color: black;
+    border-width:5px;
+    border-radius: 7px;
+}
+
+.parrafo{
+    background-size:;
+    color:black; 
+    background-color: #1787A2;
+    border: double 5px ;
+    border-radius: 7px;
+    border-color: black;
+
+}
+.table{
+    border-radius: 5px;
+    border-color: #122E93;
+    border-style: solid;
+    background-size: contain;
+    width: 80%;
+    height: 80%
+   
+
+
+
+}
+#td{
+    background-image: url("../IMG/obra1.jpg");
+}
+div.centro{
+    width:90%;
+    margin: 0 auto;
+    text-align: left;
+
+}
+img.pequeña{
+  width: 50px; height: 50px;
+}
+img.mediana{
+  width: 100px; height: 100px;
+}
+img.grande{
+  width: 269px; height: 250px;
+}
